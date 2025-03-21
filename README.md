@@ -1,0 +1,2 @@
+# Nicky
+Detallitos para Nicky
